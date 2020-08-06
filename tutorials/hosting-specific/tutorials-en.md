@@ -12,6 +12,7 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Antagonist](https://www.antagonist.nl/help/nl/webhosting/advanced/php-selector)
 * [Bluehost](https://my.bluehost.com/hosting/help/php-version-selection-php-config)
 * [Bluehost (WP Optimized Blogger)](https://my.bluehost.com/hosting/help/htaccess-php-handlers)
+* [CharlesWorks](https://charlesworks.com/how-to-choose-or-update-which-php-version-my-website-uses)
 * [CiviHosting](https://civihosting.com/blog/php-update-for-wordpress)
 * [Cloudways](https://support.cloudways.com/how-to-upgrade-to-php-7/)
 * [DreamHost](https://help.dreamhost.com/hc/en-us/articles/214895317-How-do-I-change-the-PHP-version-of-my-site-)
